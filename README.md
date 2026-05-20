@@ -223,9 +223,6 @@
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
 - [Data.gov](https://catalog.data.gov/dataset/)
 - [World Bank](https://data.worldbank.org/)
-- [GitHub Repo](https://github.com/rashakil-ds/Public-Datasets)
-
----------------------
 
 ## **Final Note: Workflow Integration**
 1. Extract data using **SQL**.
@@ -236,19 +233,7 @@
 
 By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a `Data Analyst` or `BI Analyst`. Let me know if you’d like additional resources or specific examples! Just write an `email` to me.
 
----
-# Recommended Courses at aiQuest Intelligence
-2. [SQL, Statistics & Data Analysis Tools](https://aiquest.org/courses/data-analysis-specialization/)
-3. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
-4. [Machine Learning & Data Science Core Concepts](https://aiquest.org/courses/data-science-machine-learning/)
 
-*` Note:`* We suggest these premium courses because they are well-organized for absolute beginners and will guide you step by step, from basic to advanced levels. Always remember that `T-shaped skills` are better than `i-shaped skill`. However, for those who cannot afford these courses, don't worry! Search on YouTube using the topic names mentioned in the roadmap. You will find plenty of `free tutorials` that are also great for learning. Best of luck!
-
-## About the Author
-**Rashedul Alam Shakil**  
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
-- 🎓 Industry Expert | Data Science Educator
-
-# Other Roadmaps
-- [Read Now](https://github.com/rashakil-ds/Roadmap-Docs)
+## Collected from
+**Shakil vai**  
 
